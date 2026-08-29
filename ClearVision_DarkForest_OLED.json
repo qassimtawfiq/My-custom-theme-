@@ -1,0 +1,482 @@
+{
+    "name": "ClearVision DarkForest OLED",
+    "description": "ClearVision with dark forest background, pure OLED black UI, and custom Arabic font.",
+    "authors": [
+        {
+            "name": "Qassim",
+            "id": "127804150922"
+        }
+    ],
+    "semanticColors": {
+        "ACTIVITY_CARD_BACKGROUND": [
+            "#fb4934",
+            "#9d0006",
+            "#fb4934"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#ffffff0d",
+            "#ffffff0d",
+            "#ffffff0d"
+        ],
+        "BACKGROUND_MENTIONED_HOVER": [
+            "#ffffff0d",
+            "#ffffff0d",
+            "#ffffff0d"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#ffffff0a",
+            "#ffffff0a",
+            "#ffffff0a"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#86b4ea",
+            "#86b4ea",
+            "#86b4ea"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#ffffff14",
+            "#ffffff14",
+            "#ffffff14"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#ffffff1a",
+            "#ffffff1a",
+            "#ffffff1a"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#ffffff0d",
+            "#ffffff0d",
+            "#ffffff0d"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#ffffff26",
+            "#ffffff26",
+            "#ffffff26"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#0a0a0a",
+            "#0a0a0a",
+            "#0a0a0a"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "BUG_REPORTER_MODAL_SUBMITTING_BACKGROUND": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#8a8a8a",
+            "#8a8a8a",
+            "#8a8a8a"
+        ],
+        "CHANNEL_ICON": [
+            "#2780E64d",
+            "#2780E64d",
+            "#2780E64d"
+        ],
+        "CHAT_BACKGROUND": [
+            "#00000099",
+            "#00000099",
+            "#00000099"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#81b6ef",
+            "#81b6ef",
+            "#81b6ef"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#0a0a0a",
+            "#0a0a0a",
+            "#0a0a0a"
+        ],
+        "DEPRECATED_CARD_BG": [
+            "#0a0a0a",
+            "#0a0a0a",
+            "#0a0a0a"
+        ],
+        "DEPRECATED_CARD_EDITABLE_BG": [
+            "#0a0a0a",
+            "#0a0a0a",
+            "#0a0a0a"
+        ],
+        "DEPRECATED_QUICKSWITCHER_INPUT_BACKGROUND": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "DEPRECATED_QUICKSWITCHER_INPUT_PLACEHOLDER": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "DEPRECATED_STORE_BG": [
+            "#0a0a0a",
+            "#0a0a0a",
+            "#0a0a0a"
+        ],
+        "DEPRECATED_TEXT_INPUT_BG": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "DEPRECATED_TEXT_INPUT_BORDER": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "DEPRECATED_TEXT_INPUT_BORDER_DISABLED": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "DEPRECATED_TEXT_INPUT_BORDER_HOVER": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "DEPRECATED_TEXT_INPUT_PREFIX": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "ELEVATION_HIGH": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "ELEVATION_LOW": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "ELEVATION_MEDIUM": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "ELEVATION_STROKE": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "FOCUS_PRIMARY": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "GUILD_HEADER_TEXT_SHADOW": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "HEADER_PRIMARY": [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+        ],
+        "HEADER_SECONDARY": [
+            "#2780E6",
+            "#2780E6",
+            "#2780E6"
+        ],
+        "INFO_DANGER_BACKGROUND": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "INFO_DANGER_FOREGROUND": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "INFO_DANGER_TEXT": [
+            "#fb4934",
+            "#9d0006",
+            "#fb4934"
+        ],
+        "INFO_HELP_BACKGROUND": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "INFO_HELP_FOREGROUND": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "INFO_HELP_TEXT": [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+        ],
+        "INFO_POSITIVE_BACKGROUND": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "INFO_POSITIVE_FOREGROUND": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "INFO_POSITIVE_TEXT": [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+        ],
+        "INFO_WARNING_BACKGROUND": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "INFO_WARNING_FOREGROUND": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "INFO_WARNING_TEXT": [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+        ],
+        "INPUT_BACKGROUND": [
+            "#0a0a0a",
+            "#0a0a0a",
+            "#0a0a0a"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#2780E6",
+            "#2780E6",
+            "#2780E6"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#3f3f3f",
+            "#3f3f3f",
+            "#3f3f3f"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#81b6ef",
+            "#81b6ef",
+            "#81b6ef"
+        ],
+        "LOGO_PRIMARY": [
+            "#83a598",
+            "#076678",
+            "#83a598"
+        ],
+        "MODAL_FOOTER_BACKGROUND": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#0a0a0a",
+            "#0a0a0a",
+            "#0a0a0a"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#0a0a0a",
+            "#0a0a0a",
+            "#0a0a0a"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "STATUS_DANGER_BACKGROUND": [
+            "#fb4934",
+            "#9d0006",
+            "#fb4934"
+        ],
+        "STATUS_DANGER_TEXT": [
+            "#83a598",
+            "#076678",
+            "#83a598"
+        ],
+        "STATUS_POSITIVE_BACKGROUND": [
+            "#689d6a",
+            "#427b58",
+            "#689d6a"
+        ],
+        "STATUS_POSITIVE_TEXT": [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+        ],
+        "STATUS_WARNING_BACKGROUND": [
+            "#fab387",
+            "#fab387",
+            "#fab387"
+        ],
+        "STATUS_WARNING_TEXT": [
+            "#fb4934",
+            "#9d0006",
+            "#fb4934"
+        ],
+        "TEXTBOX_MARKDOWN_SYNTAX": [
+            "#076678",
+            "#076678",
+            "#076678"
+        ],
+        "TEXT_DANGER": [
+            "#fb4934",
+            "#9d0006",
+            "#fb4934"
+        ],
+        "TEXT_LINK": [
+            "#2780E6",
+            "#2780E6",
+            "#2780E6"
+        ],
+        "TEXT_LINK_LOW_SATURATION": [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+        ],
+        "TEXT_MUTED": [
+            "#2678d6",
+            "#2678d6",
+            "#2678d6"
+        ],
+        "TEXT_NORMAL": [
+            "#dcddde",
+            "#dcddde",
+            "#dcddde"
+        ],
+        "TEXT_POSITIVE": [
+            "#689d6a",
+            "#427b58",
+            "#689d6a"
+        ],
+        "TEXT_WARNING": [
+            "#fb4934",
+            "#9d0006",
+            "#cc241d"
+        ]
+    },
+    "rawColors": {
+        "BG_GRADIENT_CRIMSON_MOON_2": "#000000",
+        "PRIMARY_100": "#3789E6",
+        "PRIMARY_130": "#dbeafa",
+        "PRIMARY_200": "#7eb3f0",
+        "PRIMARY_230": "#7eb3f0",
+        "PRIMARY_300": "#3789E6",
+        "PRIMARY_360": "#2780E6",
+        "PRIMARY_400": "#0f4480",
+        "PRIMARY_460": "#000000",
+        "PRIMARY_500": "#0a0a0a",
+        "PRIMARY_560": "#000000",
+        "PRIMARY_600": "#000000",
+        "PRIMARY_630": "#000000",
+        "PRIMARY_660": "#000000",
+        "PRIMARY_700": "#000000",
+        "PRIMARY_800": "#000000",
+        "PRIMARY_900": "#000000",
+        "BLACK_500": "#000000",
+        "BLACK_530": "#000000",
+        "BLACK_560": "#000000",
+        "BLACK_600": "#000000",
+        "BLACK_630": "#000000",
+        "BLACK_660": "#000000",
+        "BLACK_700": "#000000",
+        "BLACK_730": "#000000",
+        "BLACK_760": "#000000",
+        "BLACK_800": "#000000",
+        "BLACK_830": "#000000",
+        "BLACK_860": "#000000",
+        "BLACK_900": "#000000",
+        "BRAND_230": "#ff0000",
+        "BRAND_260": "#86b4ea",
+        "BRAND_360": "#4b96e7",
+        "BRAND_500": "#2780E6",
+        "BRAND_560": "#3789E6",
+        "RED_400": "#2780E6",
+        "RED_430": "#2780E6",
+        "RED_460": "#2780E6",
+        "GREEN_360": "#689d6a",
+        "WHITE_500": "#ffffff",
+        "YELLOW_300": "#2780E6"
+    },
+    "background": {
+        "url": "https://cdn.discordapp.com/attachments/1454022591206527119/1543344701493608498/6622f6b3c88e8b2e3bf874c93f906e36.jpg?ex=6a948742&is=6a9335c2&hm=7be487c2e2128d6847a43c53ab689111d95aa55527ee2e1779941e45801f8840&"
+    },
+    "fonts": {
+        "ABCGintoNord-ExtraBold": "https://raw.githubusercontent.com/qassimtawfiq/My-custom-theme-/02b8942733c21a24fb8846004f43bcd61658dea5/%D8%AE%D8%B7%20%D9%85%D8%AF%D9%85%D8%AC%20%D8%A7%D9%8A%D9%81%D9%88%D9%86%20%D8%B9%D8%B1%D9%8A%D8%B6.ttf",
+        "ggsans-Bold": "https://raw.githubusercontent.com/qassimtawfiq/My-custom-theme-/02b8942733c21a24fb8846004f43bcd61658dea5/%D8%AE%D8%B7%20%D9%85%D8%AF%D9%85%D8%AC%20%D8%A7%D9%8A%D9%81%D9%88%D9%86%20%D8%B9%D8%B1%D9%8A%D8%B6.ttf",
+        "ggsans-BoldItalic": "https://raw.githubusercontent.com/qassimtawfiq/My-custom-theme-/02b8942733c21a24fb8846004f43bcd61658dea5/%D8%AE%D8%B7%20%D9%85%D8%AF%D9%85%D8%AC%20%D8%A7%D9%8A%D9%81%D9%88%D9%86%20%D8%B9%D8%B1%D9%8A%D8%B6.ttf",
+        "ggsans-ExtraBold": "https://raw.githubusercontent.com/qassimtawfiq/My-custom-theme-/02b8942733c21a24fb8846004f43bcd61658dea5/%D8%AE%D8%B7%20%D9%85%D8%AF%D9%85%D8%AC%20%D8%A7%D9%8A%D9%81%D9%88%D9%86%20%D8%B9%D8%B1%D9%8A%D8%B6.ttf",
+        "ggsans-ExtraBoldItalic": "https://raw.githubusercontent.com/qassimtawfiq/My-custom-theme-/02b8942733c21a24fb8846004f43bcd61658dea5/%D8%AE%D8%B7%20%D9%85%D8%AF%D9%85%D8%AC%20%D8%A7%D9%8A%D9%81%D9%88%D9%86%20%D8%B9%D8%B1%D9%8A%D8%B6.ttf",
+        "ggsans-Medium": "https://raw.githubusercontent.com/qassimtawfiq/My-custom-theme-/02b8942733c21a24fb8846004f43bcd61658dea5/%D8%AE%D8%B7%20%D9%85%D8%AF%D9%85%D8%AC%20%D8%A7%D9%8A%D9%81%D9%88%D9%86%20%D8%B9%D8%B1%D9%8A%D8%B6.ttf",
+        "ggsans-MediumItalic": "https://raw.githubusercontent.com/qassimtawfiq/My-custom-theme-/02b8942733c21a24fb8846004f43bcd61658dea5/%D8%AE%D8%B7%20%D9%85%D8%AF%D9%85%D8%AC%20%D8%A7%D9%8A%D9%81%D9%88%D9%86%20%D8%B9%D8%B1%D9%8A%D8%B6.ttf",
+        "ggsans-Normal": "https://raw.githubusercontent.com/qassimtawfiq/My-custom-theme-/02b8942733c21a24fb8846004f43bcd61658dea5/%D8%AE%D8%B7%20%D9%85%D8%AF%D9%85%D8%AC%20%D8%A7%D9%8A%D9%81%D9%88%D9%86%20%D8%B9%D8%B1%D9%8A%D8%B6.ttf",
+        "ggsans-NormalItalic": "https://raw.githubusercontent.com/qassimtawfiq/My-custom-theme-/02b8942733c21a24fb8846004f43bcd61658dea5/%D8%AE%D8%B7%20%D9%85%D8%AF%D9%85%D8%AC%20%D8%A7%D9%8A%D9%81%D9%88%D9%86%20%D8%B9%D8%B1%D9%8A%D8%B6.ttf",
+        "ggsans-Semibold": "https://raw.githubusercontent.com/qassimtawfiq/My-custom-theme-/02b8942733c21a24fb8846004f43bcd61658dea5/%D8%AE%D8%B7%20%D9%85%D8%AF%D9%85%D8%AC%20%D8%A7%D9%8A%D9%81%D9%88%D9%86%20%D8%B9%D8%B1%D9%8A%D8%B6.ttf",
+        "ggsans-SemiboldItalic": "https://raw.githubusercontent.com/qassimtawfiq/My-custom-theme-/02b8942733c21a24fb8846004f43bcd61658dea5/%D8%AE%D8%B7%20%D9%85%D8%AF%D9%85%D8%AC%20%D8%A7%D9%8A%D9%81%D9%88%D9%86%20%D8%B9%D8%B1%D9%8A%D8%B6.ttf",
+        "NotoSans-Bold": "https://raw.githubusercontent.com/qassimtawfiq/My-custom-theme-/02b8942733c21a24fb8846004f43bcd61658dea5/%D8%AE%D8%B7%20%D9%85%D8%AF%D9%85%D8%AC%20%D8%A7%D9%8A%D9%81%D9%88%D9%86%20%D8%B9%D8%B1%D9%8A%D8%B6.ttf",
+        "NotoSans-ExtraBold": "https://raw.githubusercontent.com/qassimtawfiq/My-custom-theme-/02b8942733c21a24fb8846004f43bcd61658dea5/%D8%AE%D8%B7%20%D9%85%D8%AF%D9%85%D8%AC%20%D8%A7%D9%8A%D9%81%D9%88%D9%86%20%D8%B9%D8%B1%D9%8A%D8%B6.ttf",
+        "NotoSans-Medium": "https://raw.githubusercontent.com/qassimtawfiq/My-custom-theme-/02b8942733c21a24fb8846004f43bcd61658dea5/%D8%AE%D8%B7%20%D9%85%D8%AF%D9%85%D8%AC%20%D8%A7%D9%8A%D9%81%D9%88%D9%86%20%D8%B9%D8%B1%D9%8A%D8%B6.ttf",
+        "NotoSans-Normal": "https://raw.githubusercontent.com/qassimtawfiq/My-custom-theme-/02b8942733c21a24fb8846004f43bcd61658dea5/%D8%AE%D8%B7%20%D9%85%D8%AF%D9%85%D8%AC%20%D8%A7%D9%8A%D9%81%D9%88%D9%86%20%D8%B9%D8%B1%D9%8A%D8%B6.ttf",
+        "NotoSans-NormalItalic": "https://raw.githubusercontent.com/qassimtawfiq/My-custom-theme-/02b8942733c21a24fb8846004f43bcd61658dea5/%D8%AE%D8%B7%20%D9%85%D8%AF%D9%85%D8%AC%20%D8%A7%D9%8A%D9%81%D9%88%D9%86%20%D8%B9%D8%B1%D9%8A%D8%B6.ttf",
+        "NotoSans-Semibold": "https://raw.githubusercontent.com/qassimtawfiq/My-custom-theme-/02b8942733c21a24fb8846004f43bcd61658dea5/%D8%AE%D8%B7%20%D9%85%D8%AF%D9%85%D8%AC%20%D8%A7%D9%8A%D9%81%D9%88%D9%86%20%D8%B9%D8%B1%D9%8A%D8%B6.ttf",
+        "SourceCodePro-Semibold": "https://raw.githubusercontent.com/qassimtawfiq/My-custom-theme-/02b8942733c21a24fb8846004f43bcd61658dea5/%D8%AE%D8%B7%20%D9%85%D8%AF%D9%85%D8%AC%20%D8%A7%D9%8A%D9%81%D9%88%D9%86%20%D8%B9%D8%B1%D9%8A%D8%B6.ttf"
+    },
+    "plus": {
+        "version": 0,
+        "customOverlays": true,
+        "icons": {
+            "ic_mic_neutral": "#000000",
+            "ic_mic_muted_neutral": "#000000",
+            "ic_soundboard": "#000000",
+            "ic_soundboard_muted": "#000000",
+            "ic_video": "#000000",
+            "ic_video_disabled": "#000000"
+        },
+        "iconpack": "rosiecord-plumpy"
+    },
+    "spec": 2
+}
