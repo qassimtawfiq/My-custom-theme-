@@ -1,4 +1,4 @@
-import { ReactNative as RN } from "@vendetta/metro/common";
+import { ReactNative as RN } from "@revenge-mod/metro/common";
 import { getSrc } from "../stuff/parser";
 
 export default function CustomTwemoji({
