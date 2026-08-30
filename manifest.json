@@ -1,13 +1,13 @@
 {
 	"name": "iOS 26 Emoji",
-	"description": "استبدل إيموجيات Discord بإيموجيات iOS 26 🍎",
+	"description": "استبدل إيموجيات Discord بإيموجيات iOS 26",
 	"authors": [
 		{
 			"name": "qassimtawfiq",
 			"id": "0"
 		}
 	],
-	"main": "src/index.ts",
+	"main": "dist/index.js",
 	"revenge": {
 		"icon": "FriendsIcon"
 	}
