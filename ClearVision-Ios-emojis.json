@@ -132,10 +132,10 @@
         "YELLOW_300": "#2780E6"
     },
     "background": {
-        "url": "https://discordapp.com&"
+        "url": "https://cdn.discordapp.com/attachments/1454022591206527119/1543344701493608498/6622f6b3c88e8b2e3bf874c93f906e36.jpg?ex=6a968182&is=6a953002&hm=198b861f041539782d62c2cd73729795a7594bd89306b6c0287e8008b121df7b&"
     },
     "fonts": {
-        "Apple Color Emoji": "https://github.com",
-        "Noto Color Emoji": "https://github.com"
+        "Apple Color Emoji": "https://github.com/qassimtawfiq/ios26-emoji-plugin/releases/download/v1.0/iOS.26.4.Unicode.17.ttf",
+        "Noto Color Emoji": "https://github.com/qassimtawfiq/ios26-emoji-plugin/releases/download/v1.0/iOS.26.4.Unicode.17.ttf"
     }
 }
